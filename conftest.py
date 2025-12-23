@@ -1,4 +1,4 @@
-"""
+sure"""
 Configuration and fixtures for pytest.
 """
 import pytest
